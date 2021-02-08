@@ -1,4 +1,3 @@
-from numba.core.decorators import njit
 import pandas as pd
 from bitstring import BitString
 import pyarrow
